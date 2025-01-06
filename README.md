@@ -25,3 +25,16 @@ Untuk menginstal dan menjalankan aplikasi ini, ikuti langkah-langkah berikut:
 1. Clone repository ini:
    ```bash
    git clone https://github.com/RelliyoA2N/data-arsip.git
+
+
+## Login Admin
+
+Username : admin
+Password : 123456
+
+## Login Petugas
+
+
+## Login User
+
+Regiter untuk login
