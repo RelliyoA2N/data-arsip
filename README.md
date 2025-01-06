@@ -29,8 +29,8 @@ Untuk menginstal dan menjalankan aplikasi ini, ikuti langkah-langkah berikut:
 
 ## Login Admin
 
-- **Username : admin
-- **Password : 123456
+- **Username** : admin
+- **Password** : 123456
 
 ## Login Petugas
 
