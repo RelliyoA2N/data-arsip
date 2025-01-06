@@ -29,7 +29,8 @@ Server Requirements
 ************
 Installation
 ************
-```bash git clone https://github.com/RelliyoA2N/data-arsip.git
+   ```bash
+   git clone https://github.com/RelliyoA2N/data-arsip.git
 
 # Project Arsip Vital - CodeIgniter 3
 
