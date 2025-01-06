@@ -1,46 +1,36 @@
 ###################
-What is CodeIgniter
+Data Arsip
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Menampilkan dan mengelola data agar memugahkan kita dalam melakukan sortir data. Dengan website ini kita dapat lebih efisien dalam mengelola arsip data yang sangat banyak. 
 
 *******************
-Release Information
+Teknologi
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+CodeIgneter 3
+MySQL
 
 **************************
-Changelog and New Features
+Fitur dan Fungsi
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+1. Authentication
+2. Sording data
+3. Search data
 
 *******************
 Server Requirements
 *******************
 
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+PHP version: 7.4.9
+MySQL version: 5.7.39
 
 ************
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
+git clone https://github.com/RelliyoA2N/data-arsip.git
 
 *******
 License
