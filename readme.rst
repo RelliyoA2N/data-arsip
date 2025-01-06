@@ -32,30 +32,27 @@ Installation
 
 git clone https://github.com/RelliyoA2N/data-arsip.git
 
-*******
-License
-*******
+# Project Arsip Vital - CodeIgniter 3
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+Project ini adalah aplikasi berbasis web yang dibangun dengan menggunakan CodeIgniter 3, untuk mengelola arsip vital. Fitur utama dari aplikasi ini meliputi penambahan, pengeditan, penghapusan data arsip, serta ekspor data dalam format PDF dan Excel.
 
-*********
-Resources
-*********
+## Fitur
+- **Penambahan Data**: Menambahkan arsip vital baru ke dalam database.
+- **Pengeditan Data**: Mengubah data arsip vital yang telah ada.
+- **Penghapusan Data**: Menghapus arsip vital yang sudah tidak diperlukan.
+- **Ekspor PDF**: Mengekspor data arsip vital ke dalam format PDF.
+- **Ekspor Excel**: Mengekspor data arsip vital ke dalam format Excel.
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Contributing Guide <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
+## Instalasi
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+### Persyaratan
+- PHP 7.x atau lebih tinggi
+- CodeIgniter 3.x
+- MySQL/MariaDB
+- Composer (opsional, jika menggunakan dependensi tambahan)
 
-***************
-Acknowledgement
-***************
+### Langkah-langkah Instalasi
+1. Clone repository ini ke dalam direktori lokal Anda:
+   ```bash
+   git clone https://github.com/username/repository-name.git
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
