@@ -23,8 +23,8 @@ Fitur dan Fungsi
 Server Requirements
 *******************
 
-PHP version: 7.4.9
-MySQL version: 5.7.39
+1. PHP version: 7.4.9
+2. MySQL version: 5.7.39
 
 ************
 Installation
